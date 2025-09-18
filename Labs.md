@@ -1,7 +1,8 @@
 **Creating Defender for Admin ROle**
 1. Go to Permission Tab on Defender portal.
+   
    <img width="270" height="258" alt="image" src="https://github.com/user-attachments/assets/bab404b1-7b4e-47dd-bb50-d1872160e085" />
-2. Select Custom role
+3. Select Custom role
 <img width="783" height="397" alt="image" src="https://github.com/user-attachments/assets/742e6ced-d70b-4b5d-9f80-c89cc51127b0" />
 3.Fill in the Basic.
 <img width="675" height="385" alt="image" src="https://github.com/user-attachments/assets/13250d0d-e3e4-4fac-ad0f-9cd72d660aa5" />
