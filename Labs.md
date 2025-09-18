@@ -13,6 +13,22 @@
   5. Now create and Assignment, select the scope and assign it to the dedicated users.
 <img width="621" height="560" alt="image" src="https://github.com/user-attachments/assets/9ba6fe31-bcfc-438a-b99d-988f2a50854e" />
 
+
+-** Now when we are onboarding a device to Defender for Endpoint.**
+- EIther you can onboard using script for few devices.
+- Settings>Endpoint>Onboaridng>script
+  <img width="775" height="1585" alt="image" src="https://github.com/user-attachments/assets/833b2eaf-5048-40b3-819a-35842ecf5b31" />
+  But if we are onboarding a large devices as in a corporate scene where the device are mostly managed by Intune, then.
+  1. Firstly we need to create a sync between Intune and DEF
+  2. Security>Settings>Endpoint>AdvanceFeature> Turn on Microsoft Intune Connection.
+     
+  <img width="798" height="1214" alt="image" src="https://github.com/user-attachments/assets/07df834f-da3f-473c-b0bd-6e1d7e57a7a7" />
+Now, on Intune navigate to Intune> Endpoint security and configure the settings. Also, we can create a sepreate on boarding policy
+Endpoint for security> Endpoint Detection and Response
+<img width="769" height="1474" alt="image" src="https://github.com/user-attachments/assets/0cc463a1-a6f9-4941-b3ec-3a9967f002a2" />
+
+
+
      
 
 
