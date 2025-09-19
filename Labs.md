@@ -27,6 +27,17 @@ Now, on Intune navigate to Intune> Endpoint security and configure the settings.
 Endpoint for security> Endpoint Detection and Response
 <img width="769" height="1474" alt="image" src="https://github.com/user-attachments/assets/0cc463a1-a6f9-4941-b3ec-3a9967f002a2" />
 
+**-Baseline Assesment for devices.**
+To create a security baseline assesment for devices.
+Once conncted to Defender for Endpoint,
+1. Navigate to Endpoint
+2. Under vulnerabilities, go to Baseline assesment.
+3. Create a new profile, device group, complaince level and configuration.
+4. New baseline assesment for selected device should be created.
+   
+
+
+
 
 
      
