@@ -46,7 +46,10 @@ Adding a VM sever to Azure Arc.
 <img width="1000" height="1067" alt="image" src="https://github.com/user-attachments/assets/5838401d-b767-4c19-b505-6430f2cd4a21" />
 4. <img width="1301" height="892" alt="image" src="https://github.com/user-attachments/assets/ac583ea5-8c25-452b-8ec5-4972bc051eab" />
 5. Authentication completed and Azrue will create a resource and install the remaining.
-<img width="838" height="703" alt="image" src="https://github.com/user-attachments/assets/49d5af9f-f243-4f82-9c99-de7233b7d0dd" />
+<img width="838" height="703" alt="image" src="https://github.com/user-attachments/assets/49d5af9f-f243-4f82-9c99-de7233b7d0dd" 
+   6. Once onboarded, the machine should be visible on your Azure Arc.
+<img width="2524" height="875" alt="image" src="https://github.com/user-attachments/assets/df204e72-1155-4374-9b10-d0c970a42196" />
+
 
 
 
