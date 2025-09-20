@@ -34,6 +34,23 @@ Once conncted to Defender for Endpoint,
 2. Under vulnerabilities, go to Baseline assesment.
 3. Create a new profile, device group, complaince level and configuration.
 4. New baseline assesment for selected device should be created.
+
+-Azure Arc
+Adding a VM sever to Azure Arc.
+1. Navigate to Azure Arc. Under Arc Resource select "Machines".
+   <img width="828" height="574" alt="image" src="https://github.com/user-attachments/assets/80051a6c-999f-434c-853e-bc63c321e20e" />
+
+2.Select a single server
+   <img width="1480" height="289" alt="image" src="https://github.com/user-attachments/assets/1b59fa84-2b90-4931-a20f-a2d267ffbd08" />
+   3. Download and run the script and onboard it on the server you want to onboard.
+<img width="1000" height="1067" alt="image" src="https://github.com/user-attachments/assets/5838401d-b767-4c19-b505-6430f2cd4a21" />
+4. <img width="1301" height="892" alt="image" src="https://github.com/user-attachments/assets/ac583ea5-8c25-452b-8ec5-4972bc051eab" />
+5. Authentication completed and Azrue will create a resource and install the remaining.
+<img width="838" height="703" alt="image" src="https://github.com/user-attachments/assets/49d5af9f-f243-4f82-9c99-de7233b7d0dd" />
+
+
+
+
    
 
 
