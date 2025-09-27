@@ -37,6 +37,28 @@ Once the connectors are connected to the sentinel, you will need to create data 
      <img width="505" height="184" alt="image" src="https://github.com/user-attachments/assets/a4354e19-75fe-45ed-bb26-e8bdbd544380" />
      <img width="820" height="569" alt="image" src="https://github.com/user-attachments/assets/2bbdddba-2578-4228-8a21-24c7f3473149" />
 
+**Creating a custom log tables to store ingest data.**
+1.Navigate to LW and go to tables.
+2. Create a customtbale based on DCR.
+<img width="764" height="390" alt="image" src="https://github.com/user-attachments/assets/224912a6-4812-41e3-a2ed-a648ead4dd91" />
+3. Before we can create a custom table, we will need to create a custom data collection endpoint.
+Navigate to azure monitor and then, go to Data collection Endpoint
+<img width="1087" height="893" alt="image" src="https://github.com/user-attachments/assets/05a7a600-c14a-4ad0-9986-cb80a823bd23" />
+4. Once created, navigate back to table and create the custom table.
+<img width="930" height="688" alt="image" src="https://github.com/user-attachments/assets/9aaad698-6f2e-48b8-979e-bab31a60f0bf" />
+5. Download and upload a custom log.
+<img width="1636" height="890" alt="image" src="https://github.com/user-attachments/assets/ceb65f27-06bf-4977-9d5e-305ebc1cf529" />
+Once created you should be able to see the custom rule.
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/4d07a7e4-8bee-435e-af85-f9757ee268c4" />
+
+
+
+
+
+
+
+
+
      
 
    
