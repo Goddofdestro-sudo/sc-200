@@ -24,6 +24,29 @@ Once the workspace has been connected to the XDR, navigate back to the sentinel 
 Select the connector and install,
 <img width="1079" height="1607" alt="image" src="https://github.com/user-attachments/assets/4ee39522-afe5-4bc3-9a7e-593b476943ed" />
 
+**Data Collection Rule**
+Once the connectors are connected to the sentinel, you will need to create data collection rules to deteremine how data are collected from various sources like AMA, Fordwarded events, DFI,DFC etc.
+
+<img width="1909" height="879" alt="image" src="https://github.com/user-attachments/assets/2ce6ed51-acac-41ac-bfda-24d51891866a" />
+
+1. Creating a DCR. Navigate to Data connectors and open the data connector. Configure the DCR.
+   <img width="1905" height="885" alt="image" src="https://github.com/user-attachments/assets/297f12e8-25da-4224-a161-84a3c9a0f56e"
+   2. Select the resources and configure the type of collection.
+   
+     <img width="837" height="488" alt="image" src="https://github.com/user-attachments/assets/a6fd8ad6-f422-4a87-be6e-2fb04035ae30" />
+     <img width="505" height="184" alt="image" src="https://github.com/user-attachments/assets/a4354e19-75fe-45ed-bb26-e8bdbd544380" />
+     <img width="820" height="569" alt="image" src="https://github.com/user-attachments/assets/2bbdddba-2578-4228-8a21-24c7f3473149" />
+
+     
+
+   
+
+
+
+
+
+
+
 
 
 
