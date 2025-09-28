@@ -18,3 +18,7 @@ Microsoft Cloud Workload Protection:
 
 To activate the CWP plans, navigate to MDC and under enviromental settings, go to yous ubscription and under defender plans, you should see options to utn on servioces for CWPP (Cloud workload protection Plan).
 <img width="1427" height="788" alt="image" src="https://github.com/user-attachments/assets/22e3a1cc-43d9-485e-8ed6-876317f85e0b" />
+
+**Automatic onboarding of Azure Resources:**
+![Uploading image.png…]()
+
