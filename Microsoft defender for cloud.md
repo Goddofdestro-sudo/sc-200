@@ -9,4 +9,12 @@ There are few templates given from which you can select.
 "Use the reference documents to configure the ASR"
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference
 
+Microsoft Cloud Workload Protection:
+1. Servere
+2. Storage
+3. Containers
+4. Database
+5. API
 
+To activate the CWP plans, navigate to MDC and under enviromental settings, go to yous ubscription and under defender plans, you should see options to utn on servioces for CWPP (Cloud workload protection Plan).
+<img width="1427" height="788" alt="image" src="https://github.com/user-attachments/assets/22e3a1cc-43d9-485e-8ed6-876317f85e0b" />
