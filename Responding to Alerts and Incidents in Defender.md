@@ -18,4 +18,141 @@ Action: Some situations we may need to share the insider risk management to revi
 -Ediscovery
 -Office 365 Management API
 
+Anti Phishing Policy: 
+
+Phishing Threshold 
+
+ Domain Impersonation 
+
+Trusteed impersonation sender and Domain 
+
+Mailbox Intelligence  
+
+Spoof Intelligence 
+
+ 
+
+Anti-Phishing Email 
+
+Bulk email Threshold 
+
+SPF hard fail 
+
+Allowed sender and domain list. 
+ 
+
+Anti-malware 
+
+Custom file types 
+
+Zero auto Purge 
+
+Custom notification 
+
+ 
+
+Safe attachment 
+
+For Safe attachment detection response 
+
+Off, Block, Monitor, Replace, Dynamic Delivery 
+
+Redirect the email. 
+
+ 
+
+Safe Links 
+
+Rewrite the link on the email or message 
+
+Real time URL scanning 
+
+Options to bypass the email. 
+
+Track user click 
+
+ 
+
+DATA Loss Prevention: Preventing data exfiltration 
+
+Data Label: Public, Internal, Confidential, Highly confidential 
+
+DLP can enforce policies based on these labels 
+- DLP policies  will provide you low and high volume option to manage. 
+
+Using Labels (Classification based DLP) 
+
+Sensitive Info types (Content based DLP) 
+
+ 
+
+Insider risk management: 
+Pain Points: 
+
+Leak of data 
+
+Confidentiality violation 
+
+IP theft 
+
+Fraud  
+
+Insider trading 
+
+Compliance violation. 
+
+ 
+
+Principle: Transparency, Configurable, Integrated, Actionable 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+DEFENDER FOR CLOUD APPS: MCASB (Cloud apps security broker): log connect, API connector, Reverse Proxy. 
+
+ 
+
+What can it do:  
+
+Discover cloud apps, Iaas and Paas services. 
+
+Classify and protect information 
+
+Detect unusual behavior in apps 
+
+Asses compliance of cloud apps. 
+ 
+
+
+ 
+Apps discover: 
+
+Automatic detection → via traffic logs (Cloud Discovery) 
+
+Manual connection → for advanced monitoring and control (API connectors) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 
