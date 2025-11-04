@@ -18,7 +18,7 @@ Action: Some situations we may need to share the insider risk management to revi
 -Ediscovery
 -Office 365 Management API
 
-Anti Phishing Policy: 
+**Anti Phishing Policy: **
 
 Phishing Threshold 
 
@@ -32,7 +32,7 @@ Spoof Intelligence
 
  
 
-Anti-Phishing Email 
+**Anti-Phishing Email **
 
 Bulk email Threshold 
 
@@ -41,7 +41,7 @@ SPF hard fail
 Allowed sender and domain list. 
  
 
-Anti-malware 
+**Anti-malware **
 
 Custom file types 
 
@@ -51,7 +51,7 @@ Custom notification
 
  
 
-Safe attachment 
+**Safe attachment **
 
 For Safe attachment detection response 
 
@@ -61,7 +61,7 @@ Redirect the email.
 
  
 
-Safe Links 
+**Safe Links **
 
 Rewrite the link on the email or message 
 
@@ -73,7 +73,7 @@ Track user click
 
  
 
-DATA Loss Prevention: Preventing data exfiltration 
+**DATA Loss Prevention**: Preventing data exfiltration 
 
 Data Label: Public, Internal, Confidential, Highly confidential 
 
@@ -86,8 +86,8 @@ Sensitive Info types (Content based DLP)
 
  
 
-Insider risk management: 
-Pain Points: 
+**Insider risk management: **
+**Pain Points:** 
 
 Leak of data 
 
@@ -103,22 +103,15 @@ Compliance violation.
 
  
 
-Principle: Transparency, Configurable, Integrated, Actionable 
+**Principle**: Transparency, Configurable, Integrated, Actionable 
+
+ <img width="489" height="249" alt="image" src="https://github.com/user-attachments/assets/5cf09e3c-2d3b-40f2-ba65-db2f7c236e0a" />
 
  
 
- 
+**DEFENDER FOR CLOUD APPS**
+MCASB (Cloud apps security broker): log connect, API connector, Reverse Proxy. 
 
- 
-
-
- 
-
- 
-
-DEFENDER FOR CLOUD APPS: MCASB (Cloud apps security broker): log connect, API connector, Reverse Proxy. 
-
- 
 
 What can it do:  
 
@@ -129,9 +122,6 @@ Classify and protect information
 Detect unusual behavior in apps 
 
 Asses compliance of cloud apps. 
- 
-
-
  
 Apps discover: 
 
