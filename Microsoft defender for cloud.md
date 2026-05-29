@@ -20,6 +20,8 @@ To activate the CWP plans, navigate to MDC and under enviromental settings, go t
 <img width="1427" height="788" alt="image" src="https://github.com/user-attachments/assets/22e3a1cc-43d9-485e-8ed6-876317f85e0b" />
 
 **Automatic onboarding of Azure Resources:**
+- automatically installs required extension on all your assets.
+  
 <img width="1911" height="877" alt="image" src="https://github.com/user-attachments/assets/bbceb12c-0856-4560-939e-98fc64105e25" />
 
 ****Threat Analytics**
